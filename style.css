@@ -1,0 +1,116 @@
+div {
+    display: block;
+}
+
+
+.background {
+    background-color: #B5E4F5;
+    position: relative;
+}
+
+
+
+#Sena {
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+}
+
+#hello {
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+
+}
+
+#top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+#bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 50px;
+
+}
+
+#title-text-sena {
+    font-family: 'Sacramento', cursive;
+}
+
+
+#psypro {
+    font-family: "Merriweather", serif;
+}
+
+#skills {
+    display: block;
+    font-family: "Merriweather", serif;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#points {
+    display: block;
+    font-family: "Merriweather", serif;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 30px auto;
+    text-align: left;
+    row-gap: 2rem;
+    
+
+}
+
+div {
+    display: block;
+}
+
+.coding {
+    display: grid;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.contact-me {
+    display: block;
+    font-family: "Merriweather", serif;
+    text-align: center;
+}
+
+.btn {
+    color:antiquewhite;
+    background-color: #99B9DE;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#link {
+    background-color: #99B9DE;
+}
